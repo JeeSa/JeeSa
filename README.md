@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JeeSa
-- 👀 I’m interested in Software's Quality
-- 🌱 I’m currently learning API testing to find out bugs of any product as early as possible
+- 👀 I’m interested in Software Quality
+- 🌱 I’ve worked in different types of testing including automation testing
 - 💞️ I’m looking to collaborate on QA fields
 - 📫 You can reach me on ss.jeesa@gmail.com
 
